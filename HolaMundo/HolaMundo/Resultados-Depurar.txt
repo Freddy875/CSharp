@@ -1,8 +1,0 @@
-﻿'HolaMundo.exe' (CoreCLR: DefaultDomain): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Private.CoreLib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-'HolaMundo.exe' (CoreCLR: clrhost): 'E:\GitHub\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.dll' cargado. Símbolos cargados.
-'HolaMundo.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-'HolaMundo.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Console.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-'HolaMundo.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Threading.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-'HolaMundo.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Runtime.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-'HolaMundo.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Text.Encoding.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
-El programa '[5164] HolaMundo.exe' terminó con código 0 (0x0).
